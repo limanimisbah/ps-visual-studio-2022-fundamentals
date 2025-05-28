@@ -10,7 +10,7 @@
 
 		public static float Subtract(float x, float y)
 		{
-			Console.WriteLine("Subtracting {0} minus {1}", x, y);
+			Console.WriteLine("Subtracting {0} minus {1}!", x, y);
 			return x - y;
 		}
 
